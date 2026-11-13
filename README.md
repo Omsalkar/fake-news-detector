@@ -1,5 +1,5 @@
 # 🔍 FakeWatch — Fake News Detector
-
+# Live Deployed Link - https://fake-news-detector-d56r.onrender.com
 A one-page web app that classifies news articles as **REAL** or **FAKE** using NLP + Machine Learning.
 
 ---
